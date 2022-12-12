@@ -1,0 +1,1 @@
+sorting.txt is the demo file to read input from the file(comma separated).to use randomize function uncomment that function. colors have been for stylling purpose to use specific color for specific things you can change that.
